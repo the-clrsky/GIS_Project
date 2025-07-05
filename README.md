@@ -77,4 +77,5 @@ graph TD
   C --> D[Stored in PostGIS]
   D --> E[Admin Dashboard Map & Heatmaps]
   E --> F[Response Actions: Assign / Resolve]
-  F --> G[Notify User (optional)]
+  F --> G["Notify User (optional)"]
+
